@@ -69,9 +69,4 @@ if __name__ == "__main__":
     my_cache.put("H", "H")
     my_cache.print_cache()
     my_cache.put("I", "I")
-    my_cache.print_cache()
-    my_cache.put("J", "J")
-    my_cache.print_cache()
-    my_cache.put("K", "K")
-    my_cache.print_cache()
 
